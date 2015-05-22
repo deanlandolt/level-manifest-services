@@ -1,0 +1,11 @@
+{
+  "name": "level-manifest-services",
+  "version": "0.1.0",
+  "description": "Extended level-manifest format for defining methods as services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dean Landolt <dean@deanlandolt.com>",
+  "license": "MIT"
+}
